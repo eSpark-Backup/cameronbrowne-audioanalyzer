@@ -6,3 +6,5 @@ https://easyeda.com/editor#id=3913d8a3583c4e38bd466d1a9f1573af|0fd80760204241b7a
 https://easyeda.com/Espark11/components
 ## NetPorts 
 https://easyeda.com/forum/topic/Net-port-4f99e7970b6b4ba7b6ffa9206f202949
+## Wireless_Section_Reference_Design
+https://www.u-blox.com/sites/default/files/EVK-NINA-W1-EVK-NINA-B2_UserGuide_UBX-17011007.pdf
