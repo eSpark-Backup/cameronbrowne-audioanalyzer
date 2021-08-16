@@ -8,3 +8,9 @@ https://easyeda.com/Espark11/components
 https://easyeda.com/forum/topic/Net-port-4f99e7970b6b4ba7b6ffa9206f202949
 ## Wireless_Section_Reference_Design
 https://www.u-blox.com/sites/default/files/EVK-NINA-W1-EVK-NINA-B2_UserGuide_UBX-17011007.pdf
+## Preamp reference design:
+https://www.electronics-lab.com/project/phantom-powered-micro-phone-pre-amplifier/
+## Phantom power reference design:
+https://www.electronicsforu.com/electronics-projects/5v-48v-dc-converter-phantom-power-supplies
+## 18V Dual power supply reference design:
+https://www.electronics-lab.com/project/18v-isolated-dc-dc-converter-dual-supply-output-from-usb-5v-power-input/
