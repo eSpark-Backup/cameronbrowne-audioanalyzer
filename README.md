@@ -14,3 +14,5 @@ https://www.electronics-lab.com/project/phantom-powered-micro-phone-pre-amplifie
 https://www.electronicsforu.com/electronics-projects/5v-48v-dc-converter-phantom-power-supplies
 ## 18V Dual power supply reference design:
 https://www.electronics-lab.com/project/18v-isolated-dc-dc-converter-dual-supply-output-from-usb-5v-power-input/
+## Reduce size of E-PAD in NCP708MU330TAG
+I have reduced size of E-PAD in NCP708MU330TAG to aviod the PAD-PAD clearance error![image](https://user-images.githubusercontent.com/79562421/131219039-1f609e1f-336b-4807-a464-acd5091e2c2b.png)
